@@ -1,0 +1,46 @@
+.divstyle{
+    width:50%;
+    margin:auto;
+    height:auto;
+    font-size:xx-large;
+}
+.Logo
+{  width: 85%;
+    margin:auto;
+    height:100px;
+    font-size:x-large;
+    display:flex;
+    justify-content: space-between;
+}
+.Case
+{
+    height:auto;
+    display:flex;
+    width: 85%;
+    margin:auto;
+    font-size: larger;
+}
+.Heading
+{ 
+    width: 85%;
+    margin:auto;
+    height:80px;
+    display:flex
+}
+.Pay
+{ 
+    width: 85%;
+    margin:auto;
+    height:80px;
+    display:flex;
+   
+}
+.device
+{ 
+    width: 85%;
+    margin:auto;
+    height:auto;
+    font-size:x-large;
+    display:flex;
+   
+}
